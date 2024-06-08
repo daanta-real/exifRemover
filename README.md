@@ -1,4 +1,4 @@
-> Completed project, which is now archived 완료된 프로젝트로서, 아카이브화 되었습니다.
+> ⚠️ Completed project, which is now archived 완료된 프로젝트로서, 아카이브화 되었습니다.
 
 <img src= 'https://github.com/daanta-real/exifRemover/assets/84055731/522dd28d-b6c6-4327-bb4c-7e9bbce8a2b2' alt=titleimage width=350 height=350>
 
